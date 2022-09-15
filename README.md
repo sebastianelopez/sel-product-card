@@ -12,7 +12,7 @@ import {
     ProductImage,
     ProductTitle,
     ProductButtons
-} from 'do-product-card';
+} from 'sel-product-card';
 ```
 
 ```
