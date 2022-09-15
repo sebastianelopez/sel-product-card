@@ -1,10 +1,10 @@
 # SEL-Product-Card
 
-Este es un paquete de pruebas de despliegue en NPM
+This is a NPM deployment test package
 
 ### Sebastian Lopez
 
-## Ejemplo
+## Example
 
 ```
 import {
